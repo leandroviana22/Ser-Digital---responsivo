@@ -1,18 +1,37 @@
-🖥️ Ser Digital
-Site simples feito para praticar HTML, CSS e JavaScript.
+# Ser Digital - Responsivo
 
-Projeto de uma empresa fictícia focada em produtos digitais. Possui uma página inicial com seções como sobre, testemunhos e contato, com layout limpo e responsivo.
+Projeto de site responsivo para aluguel de imóveis, desenvolvido com foco na prática de HTML, CSS e media queries.  
+O objetivo principal foi treinar a criação de layouts que se adaptam a diferentes tamanhos de tela, simulando uma plataforma moderna de aluguel.
 
-🔍 Preview
+---
 
-Desktop
+## 🔗 Acesse o site online
+https://leandroviana22.github.io/Ser-Digital---responsivo/
 
-https://github.com/user-attachments/assets/dd945e71-1408-46a6-9678-4903512995dd
+---
 
-Mobile
+## 🖥️ Demonstração do projeto
 
-https://github.com/user-attachments/assets/4e864b73-6e2d-4b3e-ae41-fc2d5671e299
+[https://user-images.githubusercontent.com/000000000/000000000-00000000-0000-0000-0000-000000000000.mp4  ](https://github.com/user-attachments/assets/dd945e71-1408-46a6-9678-4903512995dd)
 
-🚧 Tecnologias usadas
- -HTML
- -CSS
+
+---
+
+## 🛠️ Tecnologias utilizadas
+- HTML5
+- CSS3
+ - Media Queries (responsividade)
+
+---
+
+## 📱 Responsividade
+O site foi projetado para se adaptar bem a dispositivos móveis, tablets e desktops. Para visualizar melhor, acesse o site no seu dispositivo ou redimensione a janela do navegador.
+
+---
+
+## 📌 Objetivo
+Esse projeto faz parte do meu portfólio de estudos como desenvolvedor front-end iniciante.  
+Fico aberto a sugestões de melhorias e feedbacks!
+
+---
+
